@@ -5,6 +5,8 @@ This notebook is for the "Building a Netflix Style Recommendation Engine with Am
 ## Files
 
 * Jupyter Notebook File - RecommendationEngine4Blog.ipynb
+* Data file - list of courses - data/courses.csv
+* Data file - list of students - data/students.csv
 
 ## Authors
 
