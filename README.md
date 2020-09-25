@@ -1,6 +1,6 @@
 # Building a Netflix Style Recommendation Engine with Amazon SageMaker
 
-This notebook is for the "Building a Netflix Style Recommendation Engine with Amazon SageMaker" blog on [A Cloud Guru](https://acloud.guru). This notebook teaches you how to build a content recommentation using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) and [Scikit-learn](https://scikit-learn.org/stable/). 
+This notebook is for the "Building a Netflix Style Recommendation Engine with Amazon SageMaker" blog on [A Cloud Guru](https://acloud.guru). This notebook teaches you how to build a content recommentation engine using [Amazon SageMaker](https://aws.amazon.com/sagemaker/) and [Scikit-learn](https://scikit-learn.org/stable/). 
 
 ## Files
 
